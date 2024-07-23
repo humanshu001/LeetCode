@@ -6,12 +6,12 @@ Welcome to my LeetCode solutions repository! Here, you'll find my solutions to v
 
 ### SQL 50 Challenge
 
->     The SQL 50 collection on LeetCode consists of a diverse range of SQL problems designed to assess and enhance your SQL skills. These problems cover a wide array of SQL concepts, including basic queries, subqueries, joins, aggregations, window functions, and more.
+>The SQL 50 collection on LeetCode consists of a diverse range of SQL problems designed to assess and enhance your SQL skills. These problems cover a wide array of SQL concepts, including basic queries, subqueries, joins, aggregations, window functions, and more.
 
 
 ## 🛠️ How to Use
 
-Each script file contains a solution to the corresponding problem. You can view the solution directly in the GitHub repository or download it for your use.
+Each script file contains a solution to the corresponding problem. You can view the solution direcly in the GitHub repository or download it for your use.
 
 ## 🌐 Languages
 
