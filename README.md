@@ -24,4 +24,4 @@ This repository will contain solutions in various programming languages includin
 
 ## 📬 Contact
 
-If you have any questions or suggestions, feel free to reach out to me at [My Email](mailto:humanshujaglan@gmail.com) or [My Portfolio Website](humanshu-jaglan.vercel.app).
+If you have any questions or suggestions, feel free to reach out to me at [My Email](mailto:humanshujaglan@gmail.com) or [My Portfolio Website](https://humanshu-jaglan.vercel.app).
